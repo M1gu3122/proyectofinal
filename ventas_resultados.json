@@ -1,0 +1,56 @@
+{
+  "ventaMasBaja": 1500000.0,
+  "promedioMes": 3847500.0,
+  "ventaMasAlta": 2630000.0,
+  "promedioVentas": 1923750.0,
+  "acumuladoPorTiendas": [
+    {
+      "acumulado": 3870000.0,
+      "tiendas": "Starbucks"
+    },
+    {
+      "acumulado": 3700000.0,
+      "tiendas": "Macdonald\u0027s"
+    },
+    {
+      "acumulado": 4780000.0,
+      "tiendas": "Subway"
+    },
+    {
+      "acumulado": 3040000.0,
+      "tiendas": "KFC"
+    }
+  ],
+  "filas": 4,
+  "acumuladoPorMes": [
+    {
+      "acumulado": 7250000.0,
+      "mes": "Enero"
+    },
+    {
+      "acumulado": 8140000.0,
+      "mes": "Febrero"
+    }
+  ],
+  "acumuladoTotalVentas": 1.539E7,
+  "promedioTiendas": 7695000.0,
+  "matriz": [
+    [
+      1750000.0,
+      2120000.0
+    ],
+    [
+      1850000.0,
+      1850000.0
+    ],
+    [
+      2150000.0,
+      2630000.0
+    ],
+    [
+      1500000.0,
+      1540000.0
+    ]
+  ],
+  "columnas": 2
+}
